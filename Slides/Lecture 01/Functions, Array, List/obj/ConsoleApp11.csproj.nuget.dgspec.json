@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\dcshare\\Bootcamp2\\Documentation\\Slides\\Lecture 01\\Functions, Array, List\\ConsoleApp11.csproj": {}
+  },
+  "projects": {
+    "\\\\dcshare\\Bootcamp2\\Documentation\\Slides\\Lecture 01\\Functions, Array, List\\ConsoleApp11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\dcshare\\Bootcamp2\\Documentation\\Slides\\Lecture 01\\Functions, Array, List\\ConsoleApp11.csproj",
+        "projectName": "ConsoleApp11",
+        "projectPath": "\\\\dcshare\\Bootcamp2\\Documentation\\Slides\\Lecture 01\\Functions, Array, List\\ConsoleApp11.csproj",
+        "packagesPath": "C:\\Users\\4373\\.nuget\\packages\\",
+        "outputPath": "\\\\dcshare\\Bootcamp2\\Documentation\\Slides\\Lecture 01\\Functions, Array, List\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\4373\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

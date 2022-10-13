@@ -1,0 +1,28 @@
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache
+C:\Users\muhammad.junaid\source\repos\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.AssemblyReference.cache
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.AssemblyReference.cache
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+\\dcshare\BootCamp2\Documentation\Slides\Lecture 01\Functions, Array, List\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache
